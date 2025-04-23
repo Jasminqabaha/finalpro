@@ -176,10 +176,11 @@ border: 1px solid var(--White-95, #F1F1F3);
 background: var(--White-97, #F7F7F8);
 padding: 14px;
 }
-.dd{
+.dd-navbar {
     position: fixed;
     width: 100%;
     z-index: 99;
 }
+
     
 
